@@ -9,7 +9,7 @@
 ### 🥇 My Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoleite&layout=compact&langs_count=4&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoleite&layout=compact&langs_count=4&theme=dark"/>
 </div>
 <br>
 <div style="display: inline-block">
