@@ -6,8 +6,6 @@
 - 💻 Bachelor's Degree in Computer Engineering
 - 🌎 From Brazil 
 
-### 🥇 My Stats
-
 <br>
 <div style="display: inline-block">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
